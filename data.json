@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "sample": 4,
+      "architecture": "NearSensor",
+      "energy_efficiency": "0.00847 nJ/pixel",
+      "power": "16.43 uW",
+      "speed_throughput": "1939.456 kpixel/s"
+    },
+    {
+      "sample": 13,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.0338 nJ/pixel",
+      "power": "134.5 uW",
+      "speed_throughput": "3969 kpixel/s"
+    },
+    {
+      "sample": 14,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.0483 nJ/pixel",
+      "power": "71.2 uW",
+      "speed_throughput": "1474.56 kpixel/s"
+    },
+    {
+      "sample": 15,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.0098 nJ/pixel",
+      "power": "77 uW",
+      "speed_throughput": "7864.32 kpixel/s"
+    },
+    {
+      "sample": 17,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.9056 nJ/pixel",
+      "power": "1400 uW",
+      "speed_throughput": "1545.87 kpixel/s"
+    },
+    {
+      "sample": 18,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.5046 nJ/pixel",
+      "power": "6200 uW",
+      "speed_throughput": "12288 kpixel/s"
+    },
+    {
+      "sample": 24,
+      "architecture": "Unknown",
+      "energy_efficiency": "0.2441 nJ/pixel",
+      "power": "1 uW",
+      "speed_throughput": "4.096 kpixel/s"
+    },
+    {
+      "sample": 25,
+      "architecture": "Unknown",
+      "energy_efficiency": "0.0708 nJ/pixel",
+      "power": "17.4 uW",
+      "speed_throughput": "245.76 kpixel/s"
+    },
+    {
+      "sample": 26,
+      "architecture": "NearSensor",
+      "energy_efficiency": "8.073 nJ/pixel",
+      "power": "620 uW",
+      "speed_throughput": "76.8 kpixel/s"
+    },
+    {
+      "sample": 28,
+      "architecture": "NearSensor",
+      "energy_efficiency": "0.0608 nJ/pixel",
+      "power": "29.9 uW",
+      "speed_throughput": "491.52 kpixel/s"
+    },
+    {
+      "sample": 42,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.6739 nJ/pixel",
+      "power": "5300 uW",
+      "speed_throughput": "7864.32 kpixel/s"
+    },
+    {
+      "sample": 44,
+      "architecture": "NearSensor",
+      "energy_efficiency": "6.836 nJ/pixel",
+      "power": "52500 uW",
+      "speed_throughput": "7680 kpixel/s"
+    },
+    {
+      "sample": 45,
+      "architecture": "Unknown",
+      "energy_efficiency": "4.5 nJ/pixel",
+      "power": "23000 uW",
+      "speed_throughput": "5068.8 kpixel/s"
+    },
+    {
+      "sample": 46,
+      "architecture": "NearSensor",
+      "energy_efficiency": "0.099 nJ/pixel",
+      "power": "229 uW",
+      "speed_throughput": "2313.13 kpixel/s"
+    },
+    {
+      "sample": 53,
+      "architecture": "NearSensor",
+      "energy_efficiency": "8.1 nJ/pixel",
+      "power": "620 uW",
+      "speed_throughput": "76.8 kpixel/s"
+    },
+    {
+      "sample": 56,
+      "architecture": "InSensor",
+      "energy_efficiency": "1.23 nJ/pixel",
+      "power": "205000 uW",
+      "speed_throughput": "165888 kpixel/s"
+    },
+    {
+      "sample": 58,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.034 nJ/pixel",
+      "power": "111 uW",
+      "speed_throughput": "3276.8 kpixel/s"
+    },
+    {
+      "sample": 59,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.059 nJ/pixel",
+      "power": "5.7 uW",
+      "speed_throughput": "96 kpixel/s"
+    },
+    {
+      "sample": 61,
+      "architecture": "InSensor",
+      "energy_efficiency": "34 nJ/pixel",
+      "power": "34400 uW",
+      "speed_throughput": "988.2 kpixel/s"
+    },
+    {
+      "sample": 62,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.731 nJ/pixel",
+      "power": "5750 uW",
+      "speed_throughput": "7864.32 kpixel/s"
+    },
+    {
+      "sample": 63,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.00388 nJ/pixel",
+      "power": "34.4 uW",
+      "speed_throughput": "8847.36 kpixel/s"
+    },
+    {
+      "sample": 64,
+      "architecture": "NearSensor",
+      "energy_efficiency": "11 nJ/pixel",
+      "power": "107000 uW",
+      "speed_throughput": "9727 kpixel/s"
+    },
+    {
+      "sample": 65,
+      "architecture": "NearSensor",
+      "energy_efficiency": "12.21 nJ/pixel",
+      "power": "760000 uW",
+      "speed_throughput": "62208 kpixel/s"
+    },
+    {
+      "sample": 67,
+      "architecture": "NearSensor",
+      "energy_efficiency": "2.65 nJ/pixel",
+      "power": "188388 uW",
+      "speed_throughput": "71089.92 kpixel/s"
+    },
+    {
+      "sample": 69,
+      "architecture": "InSensor",
+      "energy_efficiency": "1.11 nJ/pixel",
+      "power": "598600 uW",
+      "speed_throughput": "540000 kpixel/s"
+    },
+    {
+      "sample": 70,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.42 nJ/pixel",
+      "power": "612000 uW",
+      "speed_throughput": "1470873 kpixel/s"
+    },
+    {
+      "sample": 71,
+      "architecture": "InSensor",
+      "energy_efficiency": "3.6 nJ/pixel",
+      "power": "75000 uW",
+      "speed_throughput": "20833 kpixel/s"
+    },
+    {
+      "sample": 72,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.76 nJ/pixel",
+      "power": "185000 uW",
+      "speed_throughput": "242457 kpixel/s"
+    },
+    {
+      "sample": 74,
+      "architecture": "InSensor",
+      "energy_efficiency": "28.5 nJ/pixel",
+      "power": "31521 uW",
+      "speed_throughput": "1106 kpixel/s"
+    },
+    {
+      "sample": 75,
+      "architecture": "InSensor",
+      "energy_efficiency": "0.929 nJ/pixel",
+      "power": "8560 uW",
+      "speed_throughput": "9216 kpixel/s"
+    }
+  ]
+}
