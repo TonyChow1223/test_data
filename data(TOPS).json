@@ -149,7 +149,7 @@
     },
     {
       "sample": 68,
-      "architecture": "In Memory Computation",
+      "architecture": "Unknown",
       "energy_efficiency": 7.1,
       "power": 225000,
       "speed_throughput": 1600000
